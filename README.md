@@ -2,7 +2,7 @@ Howdy, I'm Evan! 👋
 
 I am currently a Software Development 4th year student at Marist Univeristy, with interests in programming, robotics, AI, and Space!
 
-💡 As someone who has always loved putting things together and watching things "work", my recent projects in Robotics and AI have "reunited" me with my passion for space and enginerring - which I am looking to purse.
+💡 As someone who has always loved putting things together and watching things "work", my recent projects in Robotics and AI have "reunited" me with my passion for space and enginerring - which I am striving to pursue.
 
 Recent and current happenings in my world: 🎆
 
