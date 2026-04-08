@@ -8,7 +8,7 @@ Recent and current happenings in my world: 🎆
 
 - To feed my yearning for learning, I have started development of my own Neural Network from scratch in Python and it remains as my main side-project.
   
-- sumurai.pro: My most recent accomplishment was my Capstone Project, where I served in a team of 5 to develop a fully function web app that takes in audio recordings and summarizes transcriptions, and provides the user accurate speaker diarization to record any important action items that were discussed.
+- sumurai.pro: My most recent accomplishment was my Capstone Project, where I served in a team of 5 to develop a fully functional web app that takes in audio recordings and summarizes transcriptions, and provides the user accurate speaker diarization to record any important action items that were discussed.
   
 - AI Human Anonymization of Trail Camera Images: My current ongoing research with a team (consisting of myself, 4 other students, and a professor) to create an app that can take in trail camera images and anonymize any human activity to solve privacy issues that arise from individuals being photographed in the wild.
 
